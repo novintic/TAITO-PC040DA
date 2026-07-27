@@ -4,6 +4,6 @@ the simpler version uses a weighted resistor- network with more or less common v
 
 There's also a version with an OPamp to amplify the output. This version has not really been tested as the one without works well in Bubble Bobble.
 
-Please understand tha we are not able to offer any support. Use at your own risk. Thank you.
+Please understand that we are not able to offer any support. Use at your own risk. Thank you.
 
 NOVINTIC 2026
